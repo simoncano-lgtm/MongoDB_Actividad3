@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "6aaf4577acf761f8217d514f"
+  },
+  "nombre": "Medellín",
+  "pais": "Colombia",
+  "poblacion": 2500000
+}]
